@@ -1,7 +1,3 @@
-Here is the English translation of the provided Indonesian text:
-
----
-
 This is an advanced *system prompt* structure specifically designed to maximize LLM output using a *phased extraction* method.
 
 This prompt employs a *state/phase control* technique, where the LLM is forced to stop at each session and wait for a "Continue" instruction from you. This is highly effective for preventing the LLM from running out of breath (*token limit*) and ensuring deep analysis for each metric you request.
